@@ -1,7 +1,7 @@
-##Aplicación del clima curso node
+## Aplicación del clima curso node
 Ejecutar ```npm install``` para las librerías
 
-###Ejemplo:
+### Ejemplo:
 ```
 node app -d "ciudad de mexico"
 ```
